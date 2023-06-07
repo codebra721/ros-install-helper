@@ -9,7 +9,7 @@ echo "PRESS [ENTER] TO CONTINUE THE INSTALLATION"
 echo "IF YOU WANT TO CANCEL, PRESS [CTRL] + [C]"
 read
 
-echo "PREPARE TO INSTALL ROS -------"
+echo "[PREPARE TO INSTALL ROS]"
 echo "Please sclect ROS version(Melodic or Noetic)"
 read -p "" name_ros_version
 while true; do
