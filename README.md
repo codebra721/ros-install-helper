@@ -11,10 +11,10 @@ chmod +x ros_install_helper.sh
 ./ros_install_helper.sh
 ```
 ## support ROS version
-> 1.melodic
-> 2.noetic
+> 1. melodic
+> 2. noetic
 ## support device
-> 1.ubuntu 18.04 (x86,Arm64)
-> 2.ubuntu 20.04 (x86,Arm64)
-> 3.RawsberryPI
-> 4.jetson xavier NX
+> 1. ubuntu 18.04 (x86,Arm64)
+> 2. ubuntu 20.04 (x86,Arm64)
+> 3. RawsberryPI
+> 4. jetson xavier NX
